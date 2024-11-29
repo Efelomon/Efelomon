@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm **Treasure**, a software engineer based in **Abuja, Nigeria**.
+I'm [**Treasure**](https://github.com/Efelomon), a software engineer based in **Abuja, Nigeria**.
 
 I'm primarily interested in **full-stack development**.
 
